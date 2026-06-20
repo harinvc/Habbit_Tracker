@@ -28,8 +28,8 @@ A simple and responsive web application to manage daily tasks and build producti
 
 ![after completion](screenshots/after_completion_of_task.png)
 
-
-http://localhost/habit-task-tracker/
+## 🚀 Live Demo
+http://harin.gamer.free/
 
 ## 👨‍💻 Author
 
