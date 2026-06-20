@@ -22,11 +22,11 @@ A simple and responsive web application to manage daily tasks and build producti
 
 ## 📸 Screenshots
 
-![Login](screenshots/login.jpg)
+![Login](screenshots/login_page.png)
 
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.png)
 
-![after completion](screenshots/after_completion_of_task.jpg)
+![after completion](screenshots/after_completion_of_task.png)
 
 
 http://localhost/habit-task-tracker/
