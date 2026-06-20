@@ -1,2 +1,2 @@
 # Habbit_Tracker
-A modern Habit &amp; Task Tracker with authentication, guest mode, habit management, and admin features built using HTML, JavaScript, PHP, and MySQL.
+A modern Habit & Task Tracker with authentication, guest mode, habit management, and admin features built using HTML, JavaScript, PHP, and MySQL..
