@@ -24,9 +24,12 @@ A simple and responsive web application to manage daily tasks and build producti
 
 ![Login](screenshots/login_page.png)
 
-![Dashboard](screenshots/dashboard.png)
+![List](screenshots/list.png)
 
-![after completion](screenshots/after_completion_of_task.png)
+![board](screenshots/board.png)
+
+![stats](screenshots/stats.png)
+
 
 ## 🚀 Live Demo
 http://harin.gamer.free/
